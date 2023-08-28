@@ -38,6 +38,10 @@ The project is live and can be accessed from the following URL: [https://bs-udem
 
 ---
 
+## `Responsive Design Preview`
+
+## ![Alt text](Ads%C4%B1z.png)
+
 ## `Screen`
 
 ![screenshot](img/127.0.0.1_5501_index.html.png)
